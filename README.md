@@ -8,11 +8,14 @@ https://webdevbootcamp.netlify.app/
 
 ### Screenshots
 
-Desktop Displays
-!["desktop"]()
+##### Desktop Screen View
 
-Tablet Displays
-!["tablet"]()
+!["Desktop Displays"](https://github.com/Amphakarn/bootcamp/blob/master/doc/DesktopDisplays.png?raw=true)
 
-Mobile Displays
-!["mobile"]()
+##### Tablet Screen View
+
+!["Tablet Displays"](https://github.com/Amphakarn/bootcamp/blob/master/doc/TabletDisplays.png?raw=true)
+
+##### Mobile Screen View
+
+!["Mobile Displays"](https://github.com/Amphakarn/bootcamp/blob/master/doc/MobileDisplays.png?raw=true)
