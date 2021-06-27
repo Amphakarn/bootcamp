@@ -6,7 +6,6 @@ Simple one page and fully responsive website for a fake bootcamp, built with Boo
 
 https://webdevbootcamp.netlify.app/
 
-<br>
 ## Screenshots
 
 #### Desktop Screen View
